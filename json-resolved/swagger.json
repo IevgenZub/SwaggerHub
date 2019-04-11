@@ -1709,7 +1709,7 @@
           "type" : "number",
           "format" : "double"
         },
-        "description" : {
+        "text" : {
           "type" : "string"
         },
         "bankQualifiedInd" : {
@@ -1754,9 +1754,6 @@
         },
         "toBeDeterminedInd" : {
           "type" : "boolean"
-        },
-        "dealStatus" : {
-          "type" : "string"
         },
         "syndicate" : {
           "type" : "array",
